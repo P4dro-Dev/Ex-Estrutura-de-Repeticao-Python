@@ -1,1 +1,1 @@
-## Ta de Estrutura de Repetição com Python 
+## Tade Estrutura de Repetição com Python 
