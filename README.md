@@ -1,4 +1,4 @@
  ##| Exemplo de Estrutura de Repetição com Python 
 
-  Nesse código, é po ver
+  Nesse código, é pos ver
 
