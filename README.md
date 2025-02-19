@@ -1,1 +1,1 @@
-## Exemp de Estrutura de Repetição com Python 
+## Exempl de Estrutura de Repetição com Python 
