@@ -1,1 +1,1 @@
-## Tarefa de Estrutura de Repetiç
+## Tarefa de Estrutura de Repetiçã
