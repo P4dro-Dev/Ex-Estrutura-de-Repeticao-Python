@@ -1,1 +1,1 @@
-## Tare de Estrutura de Repetição com Python 
+## Tar de Estrutura de Repetição com Python 
