@@ -1,1 +1,1 @@
-## Tarefa de Estr Decisão 
+## Tarefa de Estru Decisão 
