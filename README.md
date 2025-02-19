@@ -1,1 +1,1 @@
-## Tarefa de Estrutura de Repetição com Pytho
+## Tarefa de Estrutura de Repetição com Python
