@@ -1,4 +1,4 @@
  ##| Exemplo de Estrutura de Repetição com Python 
 
-  Nesse código, é poss ver
+  Nesse código, é possí ver
 
