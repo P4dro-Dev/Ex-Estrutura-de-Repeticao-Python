@@ -4,7 +4,7 @@
 
  ## | Funcionamento
 
-  Dentro dessas E
+  Dentro dessas Es
  
  ## 🗂️| Estrutura do Projeto
 
