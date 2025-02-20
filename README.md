@@ -4,7 +4,7 @@
 
  ## | Funcionamento
   
-  Dentro dessas Estrutura, é possível compilar mais de uma vez um cód
+  Dentro dessas Estrutura, é possível compilar mais de uma vez um códi
   
  ## 🗂️| Estrutura do Projeto
 
