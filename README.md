@@ -2,4 +2,4 @@
 
    Nesse código, é possível ver um exemplo de uma Estrutura de Repetição em Python. Podendo 
  
- ## 🗂️| Estrutura do Pro
+ ## 🗂️| Estrutura do Proj
