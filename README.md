@@ -4,7 +4,7 @@
 
  ## | Funcionamento
   
-  Dentro dessas Estrutura, é possível compilar mai
+  Dentro dessas Estrutura, é possível compilar mais
   
  ## 🗂️| Estrutura do Projeto
 
