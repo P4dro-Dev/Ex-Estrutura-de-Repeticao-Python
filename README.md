@@ -3,8 +3,8 @@
    Nesse código, é possível ver um exemplo de uma Estrutura de Repetição em Python. Podendo 
 
  ## | Funcionamento
-
-  Dentro dessas Estrutura, é
+ 
+  Dentro dessas Estrutura, é 
  
  ## 🗂️| Estrutura do Projeto
 
