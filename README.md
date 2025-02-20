@@ -2,7 +2,7 @@
 
    Nesse código, é possível ver um exemplo de uma Estrutura de Repetição em Python. Podendo 
 
- ## | Funcionamento
+ ## 💻| Funcionamento
   
   Dentro dessas Estrutura, é possível compilar mais de uma vez um código
   
