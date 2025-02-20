@@ -8,5 +8,5 @@
 
  ## 📱| Contatos
 
-  |E-mail
+  | E-mail
  
