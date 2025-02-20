@@ -4,7 +4,7 @@
 
  ## | Funcionamento
  
-  Dentro dessas Estrutura, é pos
+  Dentro dessas Estrutura, é poss
  
  ## 🗂️| Estrutura do Projeto
 
