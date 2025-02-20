@@ -4,7 +4,7 @@
 
  ## | Funcionamento
 
-  Dentro de
+  Dentro des
  
  ## 🗂️| Estrutura do Projeto
 
