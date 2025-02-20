@@ -4,7 +4,7 @@
 
  ## | Funcionamento
 
-  De
+  Den
  
  ## 🗂️| Estrutura do Projeto
 
