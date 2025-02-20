@@ -4,7 +4,7 @@
 
  ## | Funcionamento
   
-  Dentro dessas Estrutura, é possível compi
+  Dentro dessas Estrutura, é possível compil
   
  ## 🗂️| Estrutura do Projeto
 
