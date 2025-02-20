@@ -4,7 +4,7 @@
 
  ## | Funcionamento
   
-  Dentro dessas Estrutura, é possível c
+  Dentro dessas Estrutura, é possível co
   
  ## 🗂️| Estrutura do Projeto
 
