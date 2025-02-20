@@ -4,7 +4,7 @@
 
  ## | Funcionamento
 
-  Dentr
+  Dentro
  
  ## 🗂️| Estrutura do Projeto
 
