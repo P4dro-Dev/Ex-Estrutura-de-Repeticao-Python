@@ -4,7 +4,7 @@
 
  ## | Funcionamento
 
-  
+  D
  
  ## 🗂️| Estrutura do Projeto
 
