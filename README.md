@@ -4,7 +4,7 @@
 
  ## | Funcionamento
 
-  Den
+  Dent
  
  ## 🗂️| Estrutura do Projeto
 
